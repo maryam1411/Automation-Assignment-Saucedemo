@@ -11,9 +11,8 @@ This project contains automated tests for the Saucedemo.com website using Seleni
 5. [Configuration](#configuration)
 6. [Running the Tests](#running-the-tests)
 7. [Reporting](#reporting)
-8. [Project Structure](#project-structure)
-9. [Challenges Faced](#challenges-faced)
-10. [Test Coverage](#test-coverage)
+8. [Challenges Faced](#challenges-faced)
+
 
 ## Objective
 
